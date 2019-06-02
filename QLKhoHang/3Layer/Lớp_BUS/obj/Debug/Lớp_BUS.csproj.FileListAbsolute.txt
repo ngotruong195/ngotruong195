@@ -1,0 +1,11 @@
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\New folder (2)\3Layer\Lớp_BUS\bin\Debug\Lớp_BUS.dll
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\New folder (2)\3Layer\Lớp_BUS\bin\Debug\Lớp_BUS.pdb
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\New folder (2)\3Layer\Lớp_BUS\bin\Debug\Lớp_DAL.dll
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\New folder (2)\3Layer\Lớp_BUS\bin\Debug\Lớp_Entites.dll
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\New folder (2)\3Layer\Lớp_BUS\bin\Debug\Lớp_DAL.pdb
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\New folder (2)\3Layer\Lớp_BUS\bin\Debug\Lớp_Entites.pdb
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\New folder (2)\3Layer\Lớp_BUS\obj\Debug\Lớp_BUS.csprojAssemblyReference.cache
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\New folder (2)\3Layer\Lớp_BUS\obj\Debug\Lớp_BUS.csproj.CoreCompileInputs.cache
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\New folder (2)\3Layer\Lớp_BUS\obj\Debug\Lớp_BUS.csproj.CopyComplete
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\New folder (2)\3Layer\Lớp_BUS\obj\Debug\Lớp_BUS.dll
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\New folder (2)\3Layer\Lớp_BUS\obj\Debug\Lớp_BUS.pdb

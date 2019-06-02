@@ -1,0 +1,9 @@
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\New folder (2)\3Layer\Lớp_DAL\bin\Debug\Lớp_DAL.dll
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\New folder (2)\3Layer\Lớp_DAL\bin\Debug\Lớp_DAL.pdb
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\New folder (2)\3Layer\Lớp_DAL\bin\Debug\Lớp_Entites.dll
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\New folder (2)\3Layer\Lớp_DAL\bin\Debug\Lớp_Entites.pdb
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\New folder (2)\3Layer\Lớp_DAL\obj\Debug\Lớp_DAL.csprojAssemblyReference.cache
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\New folder (2)\3Layer\Lớp_DAL\obj\Debug\Lớp_DAL.csproj.CoreCompileInputs.cache
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\New folder (2)\3Layer\Lớp_DAL\obj\Debug\Lớp_DAL.csproj.CopyComplete
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\New folder (2)\3Layer\Lớp_DAL\obj\Debug\Lớp_DAL.dll
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\New folder (2)\3Layer\Lớp_DAL\obj\Debug\Lớp_DAL.pdb

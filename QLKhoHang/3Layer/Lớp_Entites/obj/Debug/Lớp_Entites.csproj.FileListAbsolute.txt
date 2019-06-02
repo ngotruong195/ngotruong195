@@ -1,0 +1,6 @@
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\New folder (2)\3Layer\Lớp_Entites\bin\Debug\Lớp_Entites.dll
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\New folder (2)\3Layer\Lớp_Entites\bin\Debug\Lớp_Entites.pdb
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\New folder (2)\3Layer\Lớp_Entites\obj\Debug\Lớp_Entites.csprojAssemblyReference.cache
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\New folder (2)\3Layer\Lớp_Entites\obj\Debug\Lớp_Entites.csproj.CoreCompileInputs.cache
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\New folder (2)\3Layer\Lớp_Entites\obj\Debug\Lớp_Entites.dll
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\New folder (2)\3Layer\Lớp_Entites\obj\Debug\Lớp_Entites.pdb

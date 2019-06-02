@@ -1,0 +1,43 @@
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\QLKhoHang\QLKhoHang\bin\Debug\QLKhoHang.exe.config
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\QLKhoHang\QLKhoHang\bin\Debug\QLKhoHang.exe
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\QLKhoHang\QLKhoHang\bin\Debug\QLKhoHang.pdb
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\QLKhoHang\QLKhoHang\obj\Debug\QLKhoHang.csprojAssemblyReference.cache
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\QLKhoHang\QLKhoHang\obj\Debug\QLKhoHang.DangNhap.resources
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\QLKhoHang\QLKhoHang\obj\Debug\QLKhoHang.DMHangHoa.resources
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\QLKhoHang\QLKhoHang\obj\Debug\QLKhoHang.DMKhachHang.resources
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\QLKhoHang\QLKhoHang\obj\Debug\QLKhoHang.DMNhaCungCap.resources
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\QLKhoHang\QLKhoHang\obj\Debug\QLKhoHang.Form1.resources
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\QLKhoHang\QLKhoHang\obj\Debug\QLKhoHang.Phiếu_Nhập.resources
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\QLKhoHang\QLKhoHang\obj\Debug\QLKhoHang.Phiếu_Xuất.resources
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\QLKhoHang\QLKhoHang\obj\Debug\QLKhoHang.Properties.Resources.resources
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\QLKhoHang\QLKhoHang\obj\Debug\QLKhoHang.QuanLyTaiKhoan.resources
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\QLKhoHang\QLKhoHang\obj\Debug\QLKhoHang.csproj.GenerateResource.cache
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\QLKhoHang\QLKhoHang\obj\Debug\QLKhoHang.csproj.CoreCompileInputs.cache
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\QLKhoHang\QLKhoHang\obj\Debug\QLKhoHang.csproj.CopyComplete
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\QLKhoHang\QLKhoHang\obj\Debug\QLKhoHang.exe
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\QLKhoHang\QLKhoHang\obj\Debug\QLKhoHang.pdb
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\QLKhoHang\QLKhoHang\bin\Debug\Lớp_BUS.dll
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\QLKhoHang\QLKhoHang\bin\Debug\Lớp_DAL.dll
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\QLKhoHang\QLKhoHang\bin\Debug\Lớp_Entites.dll
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\QLKhoHang\QLKhoHang\bin\Debug\Lớp_BUS.pdb
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\QLKhoHang\QLKhoHang\bin\Debug\Lớp_DAL.pdb
+E:\Hoc Tap\Thuc tap nhom\QLKhoHang\QLKhoHang\QLKhoHang\bin\Debug\Lớp_Entites.pdb
+C:\Users\DELL\Desktop\qlkh\QLKhoHang\QLKhoHang\QLKhoHang\bin\Debug\QLKhoHang.exe.config
+C:\Users\DELL\Desktop\qlkh\QLKhoHang\QLKhoHang\QLKhoHang\bin\Debug\QLKhoHang.exe
+C:\Users\DELL\Desktop\qlkh\QLKhoHang\QLKhoHang\QLKhoHang\bin\Debug\QLKhoHang.pdb
+C:\Users\DELL\Desktop\qlkh\QLKhoHang\QLKhoHang\QLKhoHang\obj\Debug\QLKhoHang.DangNhap.resources
+C:\Users\DELL\Desktop\qlkh\QLKhoHang\QLKhoHang\QLKhoHang\obj\Debug\QLKhoHang.DMHangHoa.resources
+C:\Users\DELL\Desktop\qlkh\QLKhoHang\QLKhoHang\QLKhoHang\obj\Debug\QLKhoHang.DMKhachHang.resources
+C:\Users\DELL\Desktop\qlkh\QLKhoHang\QLKhoHang\QLKhoHang\obj\Debug\QLKhoHang.DMNhaCungCap.resources
+C:\Users\DELL\Desktop\qlkh\QLKhoHang\QLKhoHang\QLKhoHang\obj\Debug\QLKhoHang.Form1.resources
+C:\Users\DELL\Desktop\qlkh\QLKhoHang\QLKhoHang\QLKhoHang\obj\Debug\QLKhoHang.Phiếu_Nhập.resources
+C:\Users\DELL\Desktop\qlkh\QLKhoHang\QLKhoHang\QLKhoHang\obj\Debug\QLKhoHang.Phiếu_Xuất.resources
+C:\Users\DELL\Desktop\qlkh\QLKhoHang\QLKhoHang\QLKhoHang\obj\Debug\QLKhoHang.Properties.Resources.resources
+C:\Users\DELL\Desktop\qlkh\QLKhoHang\QLKhoHang\QLKhoHang\obj\Debug\QLKhoHang.QuanLyTaiKhoan.resources
+C:\Users\DELL\Desktop\qlkh\QLKhoHang\QLKhoHang\QLKhoHang\obj\Debug\QLKhoHang.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\qlkh\QLKhoHang\QLKhoHang\QLKhoHang\obj\Debug\QLKhoHang.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\qlkh\QLKhoHang\QLKhoHang\QLKhoHang\obj\Debug\QLKhoHang.csproj.CopyComplete
+C:\Users\DELL\Desktop\qlkh\QLKhoHang\QLKhoHang\QLKhoHang\obj\Debug\QLKhoHang.exe
+C:\Users\DELL\Desktop\qlkh\QLKhoHang\QLKhoHang\QLKhoHang\obj\Debug\QLKhoHang.pdb
+C:\Users\DELL\Desktop\qlkh\QLKhoHang\QLKhoHang\QLKhoHang\obj\Debug\QLKhoHang.Help.resources
+C:\Users\DELL\Desktop\qlkh\QLKhoHang\QLKhoHang\QLKhoHang\obj\Debug\QLKhoHang.csprojAssemblyReference.cache
